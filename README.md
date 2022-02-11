@@ -1,0 +1,1 @@
+# xray-setcap-pacman
